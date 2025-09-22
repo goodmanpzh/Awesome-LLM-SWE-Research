@@ -104,6 +104,12 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Xinyi He et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.12415)], [[code](https://github.com/swe-perf/swe-perf)], [[webpage](https://swe-perf.github.io/)]
 
 
+* **SWE-QA: Can Language Models Answer Repository-level Code Questions?**  
+  *Peng et al., 2025.09.* [[pdf](https://arxiv.org/abs/2509.14635)], [[code](https://github.com/peng-weihan/SWE-QA-Bench)]
+
+* **SWE-Bench Pro: Raising the Bar for Agentic Coding**  
+  *Scale AI, 2025.09.* [[pdf](https://static.scale.com/uploads/654197dc94d34f66c0f5184e/SWEAP_Eval_Scale%20(9).pdf)], [[website](https://scale.com/research/swe_bench_pro)], [[code](https://github.com/scaleapi/SWE-bench_Pro-os/tree/main?tab=readme-ov-file)]
+
 
 
 
