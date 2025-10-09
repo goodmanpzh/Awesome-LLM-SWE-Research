@@ -110,7 +110,8 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **SWE-Bench Pro: Raising the Bar for Agentic Coding**  
   *Scale AI, 2025.09.* [[pdf](https://static.scale.com/uploads/654197dc94d34f66c0f5184e/SWEAP_Eval_Scale%20(9).pdf)], [[website](https://scale.com/research/swe_bench_pro)], [[code](https://github.com/scaleapi/SWE-bench_Pro-os/tree/main?tab=readme-ov-file)]
 
-
+* **LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering** <br>
+  *Qiu et al., 2025.09*. [[pdf](https://arxiv.org/abs/2509.09614)], [[code](https://github.com/SalesforceAIResearch/LoCoBench)]
 
 
 
@@ -160,7 +161,8 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **RepoForge: Training a SOTA Fast-thinking SWE Agent with an End-to-End Data Curation Pipeline Synergizing SFT and RL at Scale** <br>
   *Chen et al., 2025.08*. [[pdf](https://arxiv.org/abs/2508.01550)]
 
-
+* **Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents** <br>
+  *Yang et al., 2025.09*. [[pdf](https://arxiv.org/abs/2509.23045)], [[code](https://github.com/MoonshotAI/Kimi-Dev)]
 
 
 
@@ -192,9 +194,11 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **SWE-Exp: Experience-Driven Software Issue Resolution** <br>
   *Da et al., 2025.06*. [[pdf](https://arxiv.org/abs/2507.23361)], [[code](https://github.com/YerbaPage/SWE-Exp)]
 
+* **Lita: Light Agent Uncovers the Agentic Coding Capabilities of LLMs** <br>
+  *Dai et al., 2025.09*. [[pdf](https://arxiv.org/abs/2509.25873)]
 
-
-
+* **RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation** <br>
+  *Luo et al., 2025.09*. [[pdf](https://arxiv.org/abs/2509.16198)]
 
 
 ### 🗂️ Issue Location
@@ -229,9 +233,11 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **Tool-integrated Reinforcement Learning for Repo Deep Search** <br>
   *Ma et al., 2025.08*. [[pdf](https://arxiv.org/abs/2508.03012)], [[code](https://github.com/Mizersy/RepoDeepSearch/tree/main)]
 
+* **Improving Code Localization with Repository Memory** <br>
+  *Wang et al., 2025.10*. [[pdf](https://arxiv.org/abs/2510.01003)]
 
-
-
+* **A Benchmark for Localizing Code and Non-Code Issues in Software Projects** <br>
+  *Zhang et al., 2025.09*. [[pdf](https://arxiv.org/abs/2509.25242)]
 
 
 
