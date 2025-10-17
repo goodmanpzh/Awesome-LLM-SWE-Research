@@ -68,7 +68,8 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **A Survey on Code Generation with LLM-based Agents** <br>
   *Dong et al., 2025*. [[pdf](https://arxiv.org/abs/2508.00083)], [[repo](https://github.com/JiaruQian/awesome-llm-based-agent4code)]
 
-
+* **A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System** <br>  
+  *Guo et al., 2025.10*. [[pdf](https://arxiv.org/abs/2510.09721)], [[repo](https://github.com/lisaGuojl/LLM-Agent-SE-Survey)]
 
 
 ### 📊 Benchmark
