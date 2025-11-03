@@ -114,6 +114,8 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering** <br>
   *Qiu et al., 2025.09*. [[pdf](https://arxiv.org/abs/2509.09614)], [[code](https://github.com/SalesforceAIResearch/LoCoBench)]
 
+* **Enconda-bench: Process-Level Trajectory Evaluation for Environment Configuration in Software Engineering Agents** <br>
+  *Kuang et al., 2025.10*. [[pdf](https://arxiv.org/abs/2510.25694)]
 
 
 
@@ -165,7 +167,8 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents** <br>
   *Yang et al., 2025.09*. [[pdf](https://arxiv.org/abs/2509.23045)], [[code](https://github.com/MoonshotAI/Kimi-Dev)]
 
-
+* **Scalable Supervising Software Agents with Patch Reasoner (R4P)** <br>
+  *Xu et al., 2025.10*. [[pdf](https://arxiv.org/abs/2510.22775)]
 
 
 
@@ -200,6 +203,13 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 * **RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation** <br>
   *Luo et al., 2025.09*. [[pdf](https://arxiv.org/abs/2509.16198)]
+
+
+* **More with Less: An Empirical Study of Turn-Control Strategies for Efficient Coding Agents** <br>
+  *Gao & Peng, 2025.10*. [[pdf](https://arxiv.org/abs/2510.16786)]
+
+* **Improving the Efficiency of LLM Agent Systems through Trajectory Reduction (AgentDiet)** <br>
+  *Xiao, Gao, Peng & Xiong, 2025.09*. [[pdf](https://arxiv.org/abs/2509.23586)]
 
 
 ### 🗂️ Issue Location
@@ -259,7 +269,8 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **Input Reduction Enhanced LLM-based Program Repair** <br>
   *Yang et al., 2025.07*. [[pdf](https://arxiv.org/abs/2507.15251)]
 
-
+* **BugPilot: Complex Bug Generation for Efficient Learning of SWE Skills** <br>
+  *Sonwane et al., 2025.10*. [[pdf](https://arxiv.org/abs/2510.19898)]
 
 
 
@@ -278,6 +289,8 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **The SWE-Bench Illusion: When LLMs Remember Instead of Reason** <br>
   *Liang et al., 2025.06*. [[pdf](https://arxiv.org/abs/2506.12286)]
 
+* **When Old Meets New: Evaluating the Impact of Regression Tests on SWE Issue Resolution (TestPrune)** <br>
+  *Chen et al., 2025.10*. [[pdf](https://arxiv.org/abs/2510.18270)]
 ---
 
 
