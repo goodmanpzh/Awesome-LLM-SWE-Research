@@ -298,6 +298,9 @@ This repository aims to provide a comprehensive and regularly updated collection
 
 * [SWE-bench Leaderboard](https://www.swebench.com/)
 * [Awesome-LLM-SWE-Bench](https://github.com/wasiahmad/Awesome-LLM-SWE-Bench)
+* [rllm](https://github.com/agentica-project/rllm?tab=readme-ov-file)
+* [R2EGym](https://github.com/R2E-Gym/R2E-Gym)
+
 
 ---
 
