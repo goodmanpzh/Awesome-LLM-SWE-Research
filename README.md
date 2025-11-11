@@ -118,6 +118,8 @@ This repository aims to provide a comprehensive and regularly updated collection
   *Kuang et al., 2025.10*. [[pdf](https://arxiv.org/abs/2510.25694)]
 
 
+* **SWE-Compass: Towards Unified Evaluation of Agentic Coding Abilities for Large Language Models** <br>
+  *Xu et al., 2025.11*. [[pdf](https://arxiv.org/abs/2511.05459)]
 
 ### 🎯 Training & Fine-tuning
 
