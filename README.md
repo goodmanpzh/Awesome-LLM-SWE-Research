@@ -322,6 +322,13 @@ This repository aims to provide a comprehensive and regularly updated collection
 * **LongCat-Flash Technical Report** <br>
   *Meituan LongCat Team et al., 2025*. [[pdf](https://arxiv.org/abs/2509.01322)], [[repo](https://github.com/meituan-longcat/LongCat-Flash-Chat)]
 
+* **KAT-Coder Technical Report** <br>
+  *Zizheng Zhan, et al. 2025*. [[arXiv](https://arxiv.org/abs/2510.18779)]
+
+* **Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents** <br>
+  *Zonghan Yang, et al. 2025*. [[arXiv](https://arxiv.org/abs/2509.23045)], [[repo](http://github.com/MoonshotAI/Kimi-Dev/tree/master?tab=readme-ov-file)]
+
+
 ---
 
 
